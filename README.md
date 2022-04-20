@@ -1,6 +1,7 @@
-## project title Movies App with React 
+## project title 
+## Movies App with React 
 movies application made with react and styled using styled components package
-## To get statrted use you the moviesdb private API key in the . env fil
+## To get statrted use your private API key in the . env fil
 
 
 ## Available Scripts
